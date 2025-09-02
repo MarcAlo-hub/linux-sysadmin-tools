@@ -1,5 +1,5 @@
 # linux-admin-scripts
-Scripts de automatización y administración Linux para estudiantes de FP // Linux admin & automation scripts for vocational students
+Scripts de automatización y administración Linux para estudiantes de FP 
 
 ## Español
 **Scripts de automatización y administración Linux para estudiantes de FP.**  
@@ -27,7 +27,7 @@ sudo ./scripts/set-ip.sh eth0 192.168.1.100 192.168.1.1 8.8.8.8
 Linux admin & automation scripts for vocational students
 
 ## English
-**Linux admin & automation scripts for vocational students.**  
+Linux admin & automation scripts for vocational students.  
 This repository contains Bash scripts to simplify common Linux administration tasks, aimed at students and system administrators who want to automate basic configurations.
 
 ### Included scripts
