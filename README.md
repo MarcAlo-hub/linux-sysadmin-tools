@@ -19,6 +19,7 @@ Este repositorio contiene scripts en Bash para facilitar tareas comunes en siste
 ### Cómo usar cada script
 
 Configurar IP estática:
+```bash
 sudo ./scripts/set-ip.sh <INTERFAZ> <IP> <GATEWAY> <DNS>
 # Ejemplo:
 sudo ./scripts/set-ip.sh eth0 192.168.1.100 192.168.1.1 8.8.8.8
@@ -27,7 +28,7 @@ sudo ./scripts/set-ip.sh eth0 192.168.1.100 192.168.1.1 8.8.8.8
 Linux admin & automation scripts for vocational students
 
 ## English
-Linux admin & automation scripts for vocational students.  
+**Linux admin & automation scripts for vocational students.**  
 This repository contains Bash scripts to simplify common Linux administration tasks, aimed at students and system administrators who want to automate basic configurations.
 
 ### Included scripts
@@ -44,6 +45,7 @@ This repository contains Bash scripts to simplify common Linux administration ta
 ### How to use each script
 
 **1. Configure static IP:**
+```bash
 sudo ./scripts/set-ip.sh <INTERFACE> <IP> <GATEWAY> <DNS>
 # Example:
 sudo ./scripts/set-ip.sh eth0 192.168.1.100 192.168.1.1 8.8.8.8
